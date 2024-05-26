@@ -1,0 +1,179 @@
+# Velho Testamento
+
+## Pentateuco
+### Gênesis <!-- markmap: fold -->
+- Capítulos 1-2: Criação do Mundo
+  - Big Bang (~13.8 bilhões de anos atrás) [wikipedia](https://pt.wikipedia.org/wiki/Big_Bang)
+  - Formação da Terra (~4.5 bilhões de anos atrás) [wikipedia](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_Terra#:~:text=A%20Terra%20foi%20formada%20em,n%C3%A3o%20continha%20quase%20nenhum%20oxig%C3%A9nio.)
+- Capítulo 3: Adão e Eva
+  - Origem dos Homo sapiens (~300 mil anos atrás) [wikipedia](https://pt.wikipedia.org/wiki/Cronologia_da_evolu%C3%A7%C3%A3o_humana)
+- Capítulos 6-9: Noé e o Dilúvio
+  - Eventos de inundações históricas (por exemplo, inundações mesopotâmicas) [wikipedia](https://pt.wikipedia.org/wiki/Dil%C3%BAvio)
+- Capítulos 12-25: Abraão e os Patriarcas
+  - Período dos Patriarcas (~2000-1500 a.C.) [wikipedia](https://pt.wikipedia.org/wiki/Patriarcas_b%C3%ADblicos)
+
+### Êxodo <!-- markmap: fold -->
+- Capítulos 1-12: Escravidão no Egito
+  - Domínio do Egito sobre Canaã (~1550-1200 a.C.)
+- Capítulos 13-15: Moisés e as Dez Pragas
+  - Possíveis explicações naturais (explosão vulcânica de Santorini)
+- Capítulos 16-20: Êxodo e o Mar Vermelho
+  - Movimentos de populações semitas (~1300 a.C.)
+- Capítulo 20: Dez Mandamentos
+  - Código de Hammurabi (~1754 a.C.)
+
+### Levítico <!-- markmap: fold -->
+- Capítulos 1-7: Leis e Sacrifícios
+  - Práticas religiosas antigas
+- Capítulos 11-15: Pureza e Impureza
+  - Leis de saúde e higiene
+- Capítulos 23: Festivais Religiosos
+  - Calendários agrícolas antigos
+
+### Números <!-- markmap: fold -->
+- Capítulos 1-4: Censo do Povo
+  - Censos na Antiguidade
+- Capítulos 11-14: Peregrinação no Deserto
+  - Movimentos nômades no Oriente Médio
+- Capítulos 16-17: Rebeliões e Castigos
+
+### Deuteronômio <!-- markmap: fold -->
+- Capítulos 1-3: Discursos de Moisés
+- Capítulos 4-30: Recapitulação das Leis
+- Capítulos 28-30: Bênçãos e Maldições
+
+## Históricos
+### Josué <!-- markmap: fold -->
+- Capítulos 1-12: Conquista de Canaã
+  - Escavações arqueológicas de cidades como Jericó
+- Capítulos 13-24: Divisão das Terras
+
+### Juízes <!-- markmap: fold -->
+- Capítulos 1-2: Círculo de Infidelidade
+- Capítulos 3-16: Juízes como Libertadores
+- Capítulos 13-16: Sansão e Dalila
+
+### Rute <!-- markmap: fold -->
+- Capítulos 1-4: História de Rute
+  - Linhagem de Davi
+
+### 1 Samuel <!-- markmap: fold -->
+- Capítulos 1-3: Samuel, o Profeta
+- Capítulos 8-31: Saul, o Primeiro Rei
+
+### 2 Samuel <!-- markmap: fold -->
+- Capítulos 1-24: Reinado de Davi
+  - Conquistas e Pecados de Davi
+
+### 1 Reis <!-- markmap: fold -->
+- Capítulos 1-11: Salomão e o Templo
+  - Construção do Primeiro Templo (~957 a.C.)
+- Capítulos 12-22: Divisão do Reino
+  - Reinos de Israel e Judá (~930 a.C.)
+
+### 2 Reis <!-- markmap: fold -->
+- Capítulos 1-17: Queda de Israel
+  - Conquista Assíria (~722 a.C.)
+- Capítulos 18-25: Queda de Judá
+  - Conquista Babilônica (~586 a.C.)
+
+### 1 Crônicas <!-- markmap: fold -->
+- Capítulos 1-9: Genealogias
+- Capítulos 10-29: Reinado de Davi
+
+### 2 Crônicas <!-- markmap: fold -->
+- Capítulos 1-9: Reinado de Salomão
+- Capítulos 10-36: História dos Reis de Judá
+
+### Esdras <!-- markmap: fold -->
+- Capítulos 1-10: Retorno do Exílio
+  - Decreto de Ciro (~538 a.C.)
+- Reconstrução do Templo
+
+### Neemias <!-- markmap: fold -->
+- Capítulos 1-7: Reconstrução dos Muros
+  - Fortificação de Jerusalém (~445 a.C.)
+- Capítulos 8-13: Reformas de Neemias
+
+### Ester <!-- markmap: fold -->
+- Capítulos 1-10: Ester e o Rei Xerxes
+  - Salvação dos Judeus (~486-465 a.C.)
+
+## Poéticos e Sapienciais
+### Jó <!-- markmap: fold -->
+- Capítulos 1-42: Sofrimento e Fé de Jó
+  - Reflexões filosóficas e teológicas
+
+### Salmos <!-- markmap: fold -->
+- Capítulos 1-150: Hinos e Orações
+  - Literatura poética e musical
+
+### Provérbios <!-- markmap: fold -->
+- Capítulos 1-31: Sabedoria Prática
+  - Ensinos de Salomão
+
+### Eclesiastes <!-- markmap: fold -->
+- Capítulos 1-12: Vaidade e Significado da Vida
+  - Reflexões de Salomão
+
+### Cantares de Salomão <!-- markmap: fold -->
+- Capítulos 1-8: Amor e Casamento
+  - Poemas de Amor
+
+## Proféticos
+### Isaías <!-- markmap: fold -->
+- Capítulos 1-39: Profecias de Salvação e Juízo
+  - Contexto histórico (~740-700 a.C.)
+- Capítulos 40-66: Messias Prometido
+
+### Jeremias <!-- markmap: fold -->
+- Capítulos 1-52: Chamado à Arrependimento
+  - Queda de Jerusalém (~586 a.C.)
+
+### Lamentações <!-- markmap: fold -->
+- Capítulos 1-5: Lamentações pela Destruição
+  - Destruição de Jerusalém
+
+### Ezequiel <!-- markmap: fold -->
+- Capítulos 1-48: Visões e Profecias
+  - Exílio Babilônico (~597-538 a.C.)
+
+### Daniel <!-- markmap: fold -->
+- Capítulos 1-12: Visões Proféticas
+  - Fiéis na Babilônia
+
+### Oseias <!-- markmap: fold -->
+- Capítulos 1-14: Amor Infiel de Israel
+
+### Joel <!-- markmap: fold -->
+- Capítulos 1-3: Dia do Senhor
+
+### Amós <!-- markmap: fold -->
+- Capítulos 1-9: Justiça e Retidão
+
+### Obadias <!-- markmap: fold -->
+- Capítulo 1: Julgamento de Edom
+
+### Jonas <!-- markmap: fold -->
+- Capítulos 1-4: Missão em Nínive
+
+### Miquéias <!-- markmap: fold -->
+- Capítulos 1-7: Injustiça e Redenção
+
+### Naum <!-- markmap: fold -->
+- Capítulos 1-3: Juízo contra Nínive
+
+### Habacuque <!-- markmap: fold -->
+- Capítulos 1-3: Diálogo com Deus
+
+### Sofonias <!-- markmap: fold -->
+- Capítulos 1-3: Dia do Senhor
+
+### Ageu <!-- markmap: fold -->
+- Capítulos 1-2: Reconstrução do Templo
+
+### Zacarias <!-- markmap: fold -->
+- Capítulos 1-14: Visões de Esperança
+
+### Malaquias <!-- markmap: fold -->
+- Capítulos 1-4: Falta de Fidelidade
