@@ -6,6 +6,7 @@
     body {
       font-size: 32px; /* Tamanho da fonte maior */
       margin: 0;
+      padding: 0;
     }
     header {
       background-color: #87CEFA; /* Cor azul suave */
@@ -21,6 +22,7 @@
     ul {
       list-style-type: none; /* Remove os marcadores padrão da lista */
       padding: 60px 0 0; /* Espaçamento superior para compensar o cabeçalho fixo */
+      margin: 0;
     }
     li {
       margin: 10px 0; /* Espaçamento entre os itens da lista */
@@ -29,6 +31,12 @@
       text-decoration: none; /* Remove o sublinhado dos links */
       color: #000; /* Cor do texto dos links */
     }
+    iframe {
+      width: 100%; /* Largura total */
+      height: calc(100vh - 60px); /* Altura total menos a altura do cabeçalho */
+      border: none; /* Remover borda do iframe */
+      margin-top: 60px; /* Compensar a altura do cabeçalho fixo */
+    }
   </style>
 </head>
 <body>
@@ -36,7 +44,9 @@
     Velho Testamento
   </header>
   <ul>
-    <li><a href="VelhoTestamento.html">Velho Testamento</a></li>
+    <li><a href="VelhoTestamento.html" target="content-frame">Velho Testamento</a></li>
+    <!-- Adicione mais itens de lista conforme necessário -->
   </ul>
+  <iframe name="content-frame" src="VelhoTestamento.html"></iframe>
 </body>
 </html>
